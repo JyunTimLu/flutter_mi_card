@@ -1,9 +1,9 @@
-name: Web
+name: Web build
 
 on:
   push:
     branches:
-      -master
+      - master
 
 jobs:
   build:
